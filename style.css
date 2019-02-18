@@ -141,6 +141,15 @@ width:100px;
   width: 100%;
 }
 
+.romarin {
+  height: 400px;
+}
+
+.romarin img {
+  height: 100%;
+  width: 100%;
+}
+
 .footer {
   background: #F4F4F4;
   display: flex;
