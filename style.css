@@ -131,12 +131,40 @@ width:100px;
     height: 100%;
 }
 
+.bio {
+  padding: 0;
+  height: 400px;
+
+}
+
+.bio img{
+   
+}
+
 .pumpkin {
   padding: 0;
   height: 400px;
 }
 
 .pumpkin img {
+  height: 100%;
+  width: 100%;
+}
+
+.romarin {
+  height: 400px;
+}
+
+.romarin img {
+  height: 100%;
+  width: 100%;
+}
+.action {
+  padding-top: 20px;
+  height: 300px;
+}
+
+.action img {
   height: 100%;
   width: 100%;
 }
