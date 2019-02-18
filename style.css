@@ -169,10 +169,20 @@ width:100px;
 
 .tomatoes {
   height: 300px;
-  object-fit: cover;
+}
+.tomatoes img
+{
+  width: 100%;
 }
 
+.olives {
+  height: 400px;
 
+}
+
+.olives img{
+    width: 100%;
+}
 
 
 .footer {
