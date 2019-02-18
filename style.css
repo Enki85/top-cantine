@@ -113,7 +113,8 @@
   height: 200px;
   background-size: cover !important;
   background-position: center;
-  position: relative;
+  position: relative; 
+  border: white;
 }
 .card-user {
   background-position: center;
@@ -162,8 +163,13 @@
   height: 300px;
 }
 
-.content img {
+/*.content img {
 width:100px;
+}*/
+
+.tomatoes {
+  height: 300px;
+  object-fit: cover;
 }
 
 
