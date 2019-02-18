@@ -149,6 +149,15 @@ width:100px;
   height: 100%;
   width: 100%;
 }
+.action {
+  padding-top: 20px;
+  height: 300px;
+}
+
+.action img {
+  height: 100%;
+  width: 100%;
+}
 
 .footer {
   background: #F4F4F4;
