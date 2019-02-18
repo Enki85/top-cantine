@@ -133,19 +133,18 @@
 }
 
 .card {
-  height: 175px;
-  text-shadow: 0 1px 3px rgba(0,0,0,0.6);
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #616668;
+  height: 200px;
   background-size: cover !important;
   background-position: center;
-  color: white;
   position: relative;
 }
 .card-user {
+  background-position: center;
   position: absolute;
-  right: 10px;
   top: 10px;
-  width: 40px;
-  border-radius: 50%;
+  width: 100px;
 }
 .card-category {
   position: absolute;
@@ -155,9 +154,11 @@
   text-transform: uppercase;
 }
 .card-description {
-  position: absolute;
-  bottom: 10px;
-  left: 10px;
+  color: black;
+  padding-top: 20px;
+  text-align: center;
+  text-align: match-parent;
+  font-style: italic;
 }
 .card-description h2 {
   font-size: 24px;
