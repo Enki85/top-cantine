@@ -131,6 +131,16 @@ width:100px;
     height: 100%;
 }
 
+.bio {
+  padding: 0;
+  height: 400px;
+
+}
+
+.bio img{
+   
+}
+
 .pumpkin {
   padding: 0;
   height: 400px;
