@@ -120,3 +120,7 @@ font-family: 'Roboto', sans-serif;
  width: 80%;
 }
 
+.my-auto {
+  margin-top: auto;
+  margin-bottom: auto;
+}
