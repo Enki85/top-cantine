@@ -97,3 +97,17 @@
   max-width: 100%;
   height: auto;
 }
+
+
+.action {
+  padding-top: 80px;
+  padding-bottom: 40px;
+}
+.action .btn {
+  background-color:#00E0A0;
+  border-color:#00E0A0;
+}
+
+.action h2 {
+  text-align: center;
+}
