@@ -117,7 +117,6 @@ font-family: 'Roboto', sans-serif;
 
 
 .container {
-  padding-left: 100;
-  padding-right: 100;
+ width: 80%;
 }
 
