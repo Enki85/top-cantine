@@ -105,6 +105,12 @@ font-family: 'Roboto', sans-serif;
   height: auto;
 }
 
+.container {
+  padding-left: 100;
+  padding-right: 100;
+}
+
+
 .action .btn {
   background-color: #47E6B1;
   border: none;
