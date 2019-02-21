@@ -114,3 +114,9 @@ font-family: 'Roboto', sans-serif;
   padding-top: 30px;
   padding-bottom: 30px;
 }
+
+.container {
+  padding-left: 100;
+  padding-right: 100;
+}
+
